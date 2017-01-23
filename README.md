@@ -1,5 +1,5 @@
-# 3d Printing Models
-Models we use for 3D printing at MUG ROma Tre.
+# 3D Printing Models
+Models we use for 3D printing at MUG Roma Tre.
 
 ## Model list
 * [Carrellino 5.25](https://github.com/mugroma3/PrintingModels/blob/master/Models/carrellino525.stl)
